@@ -1,4 +1,4 @@
 {
-  "baseUrl": "https://dd9d00c7ee9e.ngrok-free.app",
+  "baseUrl": "http://192.168.119.1:3000",
   "ns": "96"
 }
